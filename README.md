@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Abubakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sd-abubakar&label=Profile%20views&color=FF4B14&style=for-the-badge" alt="sd-abubakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sd-abubakar&label=Profile%20views&color=green&style=for-the-badge" alt="sd-abubakar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sd-abubakar" alt="sd-abubakar" /></a> </p>
 
